@@ -1,0 +1,4 @@
+name: RastgeleChunk
+version: 1.0
+main: com.ornek.rastgelechunk.RastgeleChunk
+api-version: "1.21"
